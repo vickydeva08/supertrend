@@ -1,0 +1,5 @@
+shareconnect
+websocket-client
+pandas
+pandas-ta
+pip install -r requirements.txt
